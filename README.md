@@ -97,7 +97,7 @@ hulk-barbershop-assistente-virtual/
 
 ## Como usar
 
-1. Abra o arquivo [`prompts/assistente-virtual.md`](prompts/assistente-virtual.md).
+1. Abra o arquivo [`prompts/assistente-virtual.md`](assistente-virtual.md).
 2. Copie o conteúdo e cole no campo de instruções (system prompt) da plataforma de atendimento ou do modelo de IA que você utiliza.
 3. Conecte o assistente ao número de WhatsApp da barbearia.
 4. Teste os fluxos principais (saudação, serviços, agendamento e transferência humana) antes de colocar em produção.
